@@ -1,0 +1,23 @@
+A lot of information the product displayed 
+
+When searching for a product, similarly to the welcome page , there is a lot information presented on the screen. 
+More especifically the redundancy of the information regarding the filters.
+As it can be seen , the screen display all the possible filters available and also the various types of filter for each specific filter, and also give the possibility to edit all the displayed filter in a dialog.
+
+As it is for the previous pages, this page breached a lot of heuristics, the first one is the lack of simplicity an the exceeding of the memory load of the user. 
+Also the redundancy of the information is present making the navigation through the application not very efficient and not flexible 
+
+The severity index for this malfunction has been evaluated to a 3. The filters being an important part of the task of the user when he is searching for a product, the design of this part of the application should be retaken into consideration to facilitate the use of the application by the user.
+
+
+
+Problem with the customer complaint form 
+
+A severe malfunction was also detected on the complaint form of the user regarding the product that they purchased. Indeed for two field of the form, the expected format was not given leading the user to eventually make some errors when trying to submit the form. 
+Those fields are the complaint date and the Bank account number. 
+The date format being different for all the regions of the world , and this website being used by diverses community in the world, the expected date format should have been presented to the user. 
+
+The heuristic that have been violated in this example is the promotion of errors by the user, and also making the use of the application not efficient.
+
+The severity of this malfunction was determined to be 2. As complaints will always be made for these types of application , the form must lead the user to the expected format of the field to avoid them to make some mistake while submitting the form.
+
